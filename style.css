@@ -1,0 +1,21 @@
+body{
+    margin:0;
+    padding:0;
+    background-image: url("C:/Users/rabina/Downloads/1168-00-06.jpg");
+    height:100vh;
+    widows: 100%;
+    background-size: cover;
+}
+#color-overlay {
+    margin:0;
+    padding:0;
+   opacity: 0.8;
+   text-align: center;
+   color: white;
+}
+#text-bg{
+    line-height: 100vh;
+    font-size: 88px;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
